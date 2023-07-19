@@ -1,7 +1,6 @@
-![image](https://github.com/amit-kumar-chaudhary/amit-kumar-chaudhary/blob/main/adf3f3a5acf468eb1a2e23849ddbe4ec.gif?raw=true)
+![image](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Amit Kumar Chaudhary</h1>
 <h3 align="center">An aspiring data scientist from India</h3>
-<img align="right" alt="Coding" width="400" scr="https://i.gifer.com/OyGx.mp4">
 
 
 - 🌱 I’m currently learning **Deep Learning**
